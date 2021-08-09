@@ -1,3 +1,32 @@
+# covid_dashboard_api
+You can see the situation about Covid-19 all over the world on "covid_dashboard_api" . Please check them out!
+ <img width="1418" alt="covid_dashboard_api" src="https://user-images.githubusercontent.com/72646084/128660220-1f26682f-9e6c-47bf-ab48-448580a5f415.png">
+ 
+# Features
+I'm using React.js, Chart.js, Material UI Redux, and TypeScript.
+
+# Deploy on Firebase
+
+https://covid-dashboard-api-da763.firebaseapp.com
+
+ 
+# Requirement
+
+* TypeScript 3.9
+ 
+# Note
+ 
+I don't test environments under Linux and Windows.
+ 
+# Author
+ 
+* Daichi Watanabe
+
+
+# License
+ 
+"covid_dashboard_api" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
@@ -37,8 +66,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
