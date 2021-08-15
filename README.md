@@ -2,12 +2,15 @@
 You can see the situation about Covid-19 all over the world on "covid_dashboard_api" . Please check them out!
  <img width="1418" alt="covid_dashboard_api" src="https://user-images.githubusercontent.com/72646084/128660220-1f26682f-9e6c-47bf-ab48-448580a5f415.png">
  
+ # Deploy on Firebase
+https://covid-dashboard-api-da763.firebaseapp.com
+ 
+ 
+ 
 # Features
 I'm using React.js, Chart.js, Material UI Redux, and TypeScript.
 
-# Deploy on Firebase
 
-https://covid-dashboard-api-da763.firebaseapp.com
 
  
 # Requirement
