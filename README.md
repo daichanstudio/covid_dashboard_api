@@ -5,14 +5,9 @@ You can see the situation about Covid-19 all over the world on "covid_dashboard_
  # Deploy on Firebase
 https://covid-dashboard-api-da763.firebaseapp.com
  
- 
- 
 # Features
 I'm using React.js, Chart.js, Material UI Redux, and TypeScript.
 
-
-
- 
 # Requirement
 
 * TypeScript 3.9
